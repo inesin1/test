@@ -25,7 +25,7 @@ public static int result;
         if (scanner.hasNextInt()) {
             operand2 = scanner.nextInt(); //считывает второе число
         } else {
-            System.out.println("Извините, но это явно не число. Перезапустите программу и попробуйте снова!");
+            System.out.println("aoaoaoao");
         }
 
         System.out.print("\nРезультат вычислений: ");
